@@ -1,4 +1,5 @@
-# cuid2
+# cuid2 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hden/cuid2/tree/main.svg?style=svg&circle-token=e446bb4839884cea2d33a789e43f57bdc0823200)](https://dl.circleci.com/status-badge/redirect/gh/hden/cuid2/tree/main)
+[![Clojars Project](https://img.shields.io/clojars/v/com.github.hden/cuid2.svg)](https://clojars.org/com.github.hden/cuid2)
 
 Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation UUIDs.
 
